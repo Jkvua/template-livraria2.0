@@ -9,6 +9,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "22": "^0.0.0",
     "@passageidentity/passage-auth": "^0.1.0-beta.28",
     "@passageidentity/passage-elements": "^1.21.6",
     "axios": "^1.7.2",
